@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioCesarDefi
-- 👀 I’m interested in blockchain and Education
-- 🌱 I’m currently learning Python and Solidity
+- 👀 I’m interested in blockchain and metaverses
+- 🌱 I’m currently learning C++ and Solidity
 - 💞️ I’m looking to collaborate on develop blockchain protocols 
 - 📫 How to reach me juliocesardefi@gmail.com
 
